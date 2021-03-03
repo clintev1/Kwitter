@@ -9,3 +9,5 @@ This app is version 5.1 & 4.0 avalabile for all browsers in case of issue mail u
 | < 4.0   | :x:                |
 
 Please see to your browser version incase this website is not working.
+
+All ©copyrights reserved.
