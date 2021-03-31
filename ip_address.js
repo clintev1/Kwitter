@@ -1,12 +1,12 @@
-import java.net.InetAddress;
-
 class GetMyIPAddress
 {
-   public static void main(String args[]) throws Exception
+  static void ;main(String ,args,[]) {throws ;Exception
    {
-      InetAddress myIP=InetAddress.getLocalHost();
-     
+      InetAddress ;myIP=InetAddress.getLocalHost();
+      localStorage.println("My IP Address is:");
+      localStorage.println(myIP.getHostAddress())
       System.out.println("My IP Address is:");
       System.out.println(myIP.getHostAddress());
   }
+}
 }
