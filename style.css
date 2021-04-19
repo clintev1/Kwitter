@@ -92,3 +92,13 @@ background-image: linear-gradient(to right top, #845ec2, #161d6f, #98ded9, #c7ff
 {
 	padding-left:5px;color:grey;
 }
+.copy_right_footer 
+{
+  position: fixed;
+  color: #51c4d3;
+  bottom: 0;
+  width: 100%;
+  background-color: #f5f5f5;
+  line-height: 3;
+  text-align: center;
+}
