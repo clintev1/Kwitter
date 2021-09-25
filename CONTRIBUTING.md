@@ -6,3 +6,5 @@ This credit goes to...
                  Founded by - clintev1
                  Co-Founded by - clintev1
 That's all.                 
+
+By the way 😅 it was made alone by me.
