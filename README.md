@@ -1,5 +1,5 @@
 # Kwitter
-This app is version 5.1 & 4.0 avalabile for all browsers in case of issue mail us.
+This app is version 5.1 & 4.0 avalabile for all browsers in case of issue mail us at superspeechcreator@gmail.com.
 
 | Version | Supported          |
 | ------- | ------------------ |
